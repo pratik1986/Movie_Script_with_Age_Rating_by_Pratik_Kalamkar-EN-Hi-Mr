@@ -1,0 +1,15 @@
+Copyright Notice
+
+© 2026 Pratik N. Kalamkar
+
+The dataset organization, Age_Rating annotations, metadata curation, verification procedures, file naming conventions, and accompanying documentation are the intellectual contribution of Dr. Pratik N. Kalamkar.
+
+The original movie scripts remain the property of their respective copyright holders.
+
+The datasets are provided for academic research and educational purposes.
+
+Users are requested to cite:
+
+Kalamkar, P. N., Peddi, P., & Sharma, Y. K. (2026).
+Lightweight and Explainable Neural Models for Multilingual Movie Script Certification.
+DOI: 10.5815/ijitcs.2026.02.09
